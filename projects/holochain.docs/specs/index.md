@@ -2,8 +2,8 @@
 ## Table of Contents
 * [Wireframes](app-wireframe.md)
 * Requirements Inventory
-  * [ ] [epic:identify & authenticate user](epic&#95;identify&#32;&amp;&#32;authenticate&#32;user)
-  * [ ] [epic:book workspace per user](epic&#95;book&#32;workspace&#32;per&#32;user)
+  * [ ] [epic_identify & authenticate user](epic_identify%20%26%20authenticate%20user.md)
+  * [ ] [epic_book workspace per user](epic_book%20workspace%20per%20user.md)
  
  * Resources
  -- [epicstory.template](epicstory.template)
@@ -13,3 +13,4 @@
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMzI2MzM4NDIsLTgyNzE5NDY4MF19
 -->
+
